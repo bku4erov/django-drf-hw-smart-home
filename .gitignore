@@ -1,1 +1,4 @@
 measurement/migrations
+measurement/config.py
+smart_home/__pycache__
+measurement/__pycache__
